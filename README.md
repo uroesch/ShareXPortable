@@ -2,7 +2,7 @@
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/uroesch/ShareXPortable?include_prereleases)](https://github.com/uroesch/ShareXPortable/releases)
 [![Runs on](https://img.shields.io/badge/runs%20on-Win64%20%26%20Win32-blue)](#runtime-dependencies)
 [![Depends on](https://img.shields.io/badge/depends%20on-.%20Net-blue)](#runtime-dependencies)
-
+![GitHub All Releases](https://img.shields.io/github/downloads/uroesch/ShareXPortable/total?style=flat)
 
 # ShareX for PortableApps.com
 
