@@ -10,3 +10,6 @@ If (Test-Path $_PortableFile) {
 Else {
   New-Item -ItemType file $_PortableAppsFile
 }
+
+# Delete downloaded file as they share the same name
+Remove-Item $DownloadDir\*.zip
