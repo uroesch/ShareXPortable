@@ -12,4 +12,5 @@ Else {
 }
 
 # Delete downloaded file as they share the same name
-Remove-Item $DownloadDir\*.zip
+Debug info "Removing ShareX ZIP files from '$DownloadDir'"
+Remove-Item -Force $DownloadDir\ShareX*.zip
