@@ -39,7 +39,7 @@ This PortableApps project is in early beta stage.
 
 ## Todo
 - [ ] Documentation
-- [ ] Include ffmpeg binary.
+- [x] Include ffmpeg binary.
 
 ## Installation
 
