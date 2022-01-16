@@ -31,12 +31,12 @@ platform.
 | Windows 7       | ![ps][ps]          | ![ps][ps]           |  
 | Windows 8       | ![ps][ps]          | ![ps][ps]           |  
 | Windows 10      | ![fs][fs]          | ![fs][fs]           |
-| Windows 11      | ![na][na]          | ![ps][ps]           |
+| Windows 11      | ![na][na]          | ![fs][fs]           |
 
 Legend: ![ns][ns] not supported; ![na][na] not applicable; ![nd][nd] no data; ![ps][ps] supported but not verified; ![fs][fs] verified;
 
 ## Status 
-This PortableApps project is in early beta stage. 
+This PortableApps project is in early beta stfge. 
 
 ## Todo
 - [ ] Documentation
