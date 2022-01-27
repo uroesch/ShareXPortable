@@ -26,8 +26,8 @@ platform.
 
 | OS              | 32-bit             | 64-bit              | 
 |-----------------|:------------------:|:-------------------:|
-| ReactOS 0.4.14  | ![nd][nd]          | ![nd][nd]           |
-| ReactOS 0.4.15  | ![nd][nd]          | ![nd][nd]           |
+| ReactOS 0.4.14  | ![na][ns]          | ![na][na]           |
+| ReactOS 0.4.15  | ![ns][ns]          | ![ns][ns]           |
 | Windows XP      | ![ns][ns]          | ![ns][ns]           | 
 | Windows Vista   | ![ns][ns]          | ![ns][ns]           | 
 | Windows 7       | ![ps][ps]          | ![ps][ps]           |  
