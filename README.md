@@ -12,10 +12,10 @@
 [ShareX](https://getsharex.com) is a free and open source program
 that lets you capture or record any area of your screen and share
 it with a single press of a key. It also allows uploading images,
-text or other types of files to many supported destinations you 
+text or other types of files to many supported destinations you
 can choose from.
 
-It is published under the GNU General Public License. The project's 
+It is published under the GNU General Public License. The project's
 source code is hosted at the GitHub code-sharing and code development
 platform.
 
@@ -25,21 +25,21 @@ platform.
 
 ## Support matrix
 
-| OS              | 32-bit             | 64-bit              | 
+| OS              | 32-bit             | 64-bit              |
 |-----------------|:------------------:|:-------------------:|
 | ReactOS 0.4.14  | ![na][ns]          | ![na][na]           |
 | ReactOS 0.4.15  | ![ns][ns]          | ![ns][ns]           |
-| Windows XP      | ![ns][ns]          | ![ns][ns]           | 
-| Windows Vista   | ![ns][ns]          | ![ns][ns]           | 
-| Windows 7       | ![ps][ps]          | ![ps][ps]           |  
-| Windows 8       | ![ps][ps]          | ![ps][ps]           |  
+| Windows XP      | ![ns][ns]          | ![ns][ns]           |
+| Windows Vista   | ![ns][ns]          | ![ns][ns]           |
+| Windows 7       | ![ps][ps]          | ![ps][ps]           |
+| Windows 8       | ![ps][ps]          | ![ps][ps]           |
 | Windows 10      | ![fs][fs]          | ![fs][fs]           |
 | Windows 11      | ![na][na]          | ![fs][fs]           |
 
 Legend: ![ns][ns] not supported; ![na][na] not applicable; ![nd][nd] no data; ![ps][ps] supported but not verified; ![fs][fs] verified;
 
-## Status 
-This PortableApps project is in early beta stfge. 
+## Status
+This PortableApps project is in early beta stfge.
 
 ## Todo
 - [ ] Documentation
