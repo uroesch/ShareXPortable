@@ -27,6 +27,15 @@ ifdef::env-github[]
 endif::env-github[]
 :doctype: book
 
+[WARNING]
+--
+There is now an https://portableapps.com/apps/graphics_pictures/sharex-portable[
+official release of ShareX on PortableApps.com].
+
+Please use the official release as this repository will no longer be maintained
+and no more releases will be published here.
+--
+
 ifdef::env-github[]
 image:{app-project-url}/workflows/build-linux/badge.svg[
   title="Linux Build",
